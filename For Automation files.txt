@@ -1,7 +1,0 @@
-
-ipon.hu 
-
-Test Automation project, search and search result page feature tests
-
-Gauge Visual Studio Code plugin required, to
- run .spec file and step implementation.js file in VSC. 
